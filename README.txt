@@ -1,4 +1,4 @@
-Para ejecutar el compilador, se debe agregar el proyecto a Eclipse y ejecutar "compilator/src/view/Window.java".
+Para ejecutar el compilador, se debe agregar el proyecto a Eclipse y ejecutar "Compilator/src/view/Window.java".
 
 Se tiene la opción de escribir código en la propia ventana o buscarlo dentro de la propia interfaz en las carpetas locales.
 

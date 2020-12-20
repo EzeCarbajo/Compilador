@@ -1,0 +1,27 @@
+int aux, aux_2, var, i;
+int arr[3];
+
+
+begin
+	aux := 35;
+	arr[0]:= 5;
+	arr[2]:= 8;
+	arr[1]:=aux-aux_2;
+	aux_2:=45;
+	var:=0
+;if(aux<aux_2) begin
+	foreach i in arr begin
+		if(i<=aux_2) begin
+			print({El nro del arreglo es mayor});
+		end;
+		else begin
+			print({El nro aux_2 es mayor});
+		end;
+		end_if;
+	end;
+	var:= var +1;
+end;
+end_if;
+
+
+end;

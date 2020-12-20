@@ -1,0 +1,15 @@
+int aux, aux2, i;
+int arr[1,2,-3];
+long aux3;
+begin
+	aux:= 25;
+	aux3 := aux*5;
+	i := i+1;#se puede asignar i aca
+	foreach i in arr begin
+		aux := i;#no se puede asignar i aca
+		i:=aux;
+		if (i <= 2)
+			print({hola});
+		end_if;
+	end;
+end;
